@@ -1,0 +1,30 @@
+---
+title: "partner.Rmd"
+author: "Oztok"
+date: "2/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## Name
+Ibrahim Murat Oztok <br>
+
+## Github Username
+moztok 
+
+## Most Recent Commit
+The commit was called hw1. It added to the files hm1.Rmd and hw1.html
+<br>
+The commit ID:c364534abbaaf5a449836cf026cd050e5ff75073
+
+## Knitting the hw1.Rmd
+I was able to knit hw1.Rmd successfully.
+
+## Error/difficulty Encountered
+I encountered an error at first but when I typed my username and password it all worked fine at the end.
+
+  
+
+
